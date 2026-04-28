@@ -62,3 +62,6 @@ for _, poi in pois.iterrows():
     ).add_to(m)
 
 st_folium(m, width=900, height=550)
+
+
+
